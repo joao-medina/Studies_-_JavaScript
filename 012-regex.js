@@ -1,5 +1,7 @@
-var pattern = /^a/;
+var regex = /a/;
+var variavel = "abc"
 
-//variavel.replace(regex, valor)
+var resultado = variavel.replace(regex, "j")
 
-console.log(pattern.test('a'))
+console.log(resultado)
+//jbc
